@@ -1,1 +1,20 @@
+// persona 1
+var piname "Maria Delos Santos Las Marias";
+var plage "25":
+var pladdress "Upper Session Road, Baguio City, Benguet":
 
+//persono 2
+
+var persona2rname "Juan Gamaso Dela Cruz:
+var page "26":
+var paddress "San Nicolas, Candon City, Ilocos Sur";
+var rearrNamel var reArrName2 persona1name.split(Maria Las Marias): persona2name.split(Juan Dela Cruz):
+
+console.log(rearrangedNamel persona1name, persona1age, pladdress);
+console.log(rearranged persona2name, persona1age, persona2address):
+
+var persono1nameLenght persona1name. Lenght:
+var persona2NameLenght persona2name. Lenght;
+var persona1AddressLenght persona1ddress.Lenght:
+var person12AddressLenght persona2address. Lenght:
+var SumOfALLNumericValues plage plage, Subtract the Lenght persona1. Multiply
